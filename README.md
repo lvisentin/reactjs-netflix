@@ -6,6 +6,6 @@ This is a Netflix homepage clone, made just for study purposes using ReactJs.
 
 ### Features
 
-- [x] TMDB Api connection
-- [x] Movie listing
+- [ x ] TMDB Api connection
+- [ x ] Movie listing
 
