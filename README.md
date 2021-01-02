@@ -29,7 +29,11 @@ $ npm install
 
 # Run the application
 $ npm start
+
+# The app will start in the port:3000 - access <http://localhost:3000>
+
 ```
 
+<img src="https://raw.githubusercontent.com/lvisentin/reactjs-netflix/main/src/img/netflix1.png">
 
 
