@@ -1,0 +1,33 @@
+header {
+    position: fixed;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 70px;
+    z-index: 999;
+    padding: 0 40px;
+    background: transparent;
+    transition: all ease .3s;
+}
+
+header.collapsed {
+    background-color: #141414;
+}
+
+.header-logo,
+.header-user-img {
+    height: 30px;
+}
+
+.header-logo img,
+.header-user-img img{
+    height: 100%;
+    width: auto;
+}
+
+.header-user-img  img{
+    border-radius: 3px;
+}
